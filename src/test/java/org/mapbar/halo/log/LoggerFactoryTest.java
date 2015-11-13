@@ -32,6 +32,8 @@ public class LoggerFactoryTest {
 	logger.debug("1111111111111");
 	logger.warn("1111111111111");
 	logger.error("1111111111111");
+	logger.info("zi ding yi ");
+
 	}
 
 	@Test
